@@ -1,5 +1,6 @@
 # AI-ML-roadmap
 A Roadmap to Learn AI/ML from Scratch by the End of 2023
+[Link to another roadmap](https://vc.ru/u/1389654-machine-learning/596407-roadmap-dlya-izucheniya-machine-learning-2023)
 
 ## Introduction Artificial: 
 
